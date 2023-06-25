@@ -1,0 +1,56 @@
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# **Ronna Jackson, CPA**
+
+ronna.jackson@gmail.com            (123) 456-7890               Booklyn,NY
+
+*Certified Public Accountant(CPA) with 4+ years of experience in public accounting and financial auditing. Looking for an opportunity in a fast growing company to build out best accounting practices and make accounting a competitive advantage within the organization.*
+
+### **WORKING EXERCISE**
+
+---
+
+### **Community Center of Staten Island** - Senior Accountant
+
+Feb 2019 - current
+
+- Mannaged a portpolio of government and private foundation grants totaling over $7M annually
+
+- Worked closely with program management on budgets, programs, and financial reporting to ensure adherence to US GAAP
+
+  .
+  .
+  .
+
+### **HLW** - Accountant
+
+Aug 2016 - Feb 2019
+
+- Analyzed balance sheet accounts and posted monthly journal entries in accordance with US GAAP
+
+- Performed mothly bank reconcillations and general ledger account analyzes for assets worth over $15M
+  
+  .
+  .
+  .
+  
+### **EDUCATION**
+
+---
+
+  .
+  .
+  .
+  
+### **SKILLS**
+
+---
+  
+  .
+  .
+  .
+  
+
